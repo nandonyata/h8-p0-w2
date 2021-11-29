@@ -1,0 +1,10 @@
+Algortitma hukum_newton_dua
+
+STORE "gaya" without any value
+STORE "massa" with any value
+STORE "percepatan" any value
+
+CALCULATE "massa" times "percepatan"
+SET "gaya" value with calculation result
+
+DISPLAY "gaya"

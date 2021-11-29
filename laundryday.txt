@@ -1,0 +1,8 @@
+Algoritma laundry_day
+
+STORE "isimesin" with 0
+
+WHILE "isimesin" < 20
+    ADD "isimesin" by 1
+
+DO "hidupkanmesin"

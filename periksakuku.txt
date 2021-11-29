@@ -1,0 +1,11 @@
+Algoritma periksa_kuku
+
+STORE "sudah-dicek" to 0
+
+WHILE "sudah-dicek" < 41
+    DO "periksa_kuku"
+
+IF "kuku-panjang"
+    DO "hukum"
+ELSE
+    DO "puji"
